@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 你所热爱的就是你的生活
 
-基于https://github.com/arcxingye/EatKano。
+基于https://github.com/arcxingye/EatKano
 
 Github Page:http://你所热爱的就是你的生活.top/MongoliaOrders/
 
